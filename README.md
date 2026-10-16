@@ -1,4 +1,4 @@
-# HCM-KS26-CNTT2_Nhap-mon-CNTT_Session10_ex6
+# HCM-KS26-CNTT2_Nhap-mon-CNTT_Session10_Ex6
 ```markdown
 # BÀI TẬP: PHÂN TÍCH VÀ CHUYỂN ĐỔI TÀI LIỆU DỰ ÁN GREENTECH (PLAIN TEXT VS RICH TEXT)
 
